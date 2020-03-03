@@ -1,0 +1,155 @@
+.header{ 
+	background-image: url(images/bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 50vw;
+	width: 60vw;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+	left: 20vw;
+}
+h1{
+	margin: 0px;
+
+}
+
+.container h1{
+	padding-top: 15%;
+	text-align: center;
+	color: white;
+	font-family: Arial;
+	font-size: 4.5vw;
+}
+.container p{
+	text-align: center;
+	color: white;
+	font-family: Arial;
+	font-size: 1.5vw;
+}
+#b1{
+	background-color: black;
+	margin-left: 43%;
+	padding: 0.5vw;
+	padding-left: 1.2vw;
+	padding-right: 1.2vw;
+	font-size: 1vw;
+	color: white;
+	font-family: Arial;
+}
+.nav {
+	background-color: black;
+	height: 4vw;
+	width: 60vw;
+	position: absolute;
+    top: 41vw;	
+	left: 20vw;
+}
+.nav ul{
+	margin: 0vw;
+}
+
+.nav li{
+	display: inline-block;
+	font-size: 1vw;
+	padding: 1.4vw;
+}
+.nav li:hover {
+	background-color: dodgerblue;
+}
+.nav a {
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+}
+
+.main{
+	background-color: white;
+	height: 15vw;
+	width: 60vw;
+	margin: 0px;
+	position: absolute;
+	top: 45vw;
+	left: 20vw;
+}
+.main h2{
+	position:absolute;
+	top: 2vw;
+	left: 21vw;
+	font-family: 'fantasy', sans-serif; 
+	font-size: 1vw;
+}
+
+.main p{
+	color: black;
+	text-align: left;
+	position:absolute;
+	top: 4vw;
+	left: 21vw;
+	font-family: serif; 
+	font-size: 0.9vw;
+}
+.main img{
+	position: absolute;
+	top: 6vw;
+	left: 7vw;
+
+}
+.jumbotron{
+	background-image: url(images/jumbotron_bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 40vw;
+	width: 60vw;
+	margin: 0px;
+	position: absolute;
+	top: 60vw;
+	left: 20vw;
+}
+
+.jumbotron h2{
+	padding-top: 15%;
+	color: white;
+	text-align: right;
+	margin-right: 7vw;
+	font-size: 1.5vw;
+}
+
+.jumbotron p{
+	text-align: right;
+	margin-right: 7vw;
+	font-size: 1vw;
+}
+
+#b2{
+	color: white;
+	text-decoration: none;
+	background-color: dodgerblue;
+	font-family: 'Times New Roman', Times, serif; 
+	font-size: 1vw;
+	border: 0.1vw double #00BFFF; 
+	position: absolute;
+	left: 47vw;
+	padding: 0.5vw;
+	padding-left: 2vw;
+	padding-right: 2vw;
+}
+
+.footer{
+	background-color: black;
+	height: 5vw;
+	width: 60vw;
+	position: absolute;
+    top: 100vw;	
+	left: 20vw;
+}
+
+.footer p{
+	color: white;
+	font-size: 1vw;
+	text-align: left;
+	position: absolute;
+	top: 1vw;
+	left: 7vw;
+	margin-bottom: 0px;
+}
